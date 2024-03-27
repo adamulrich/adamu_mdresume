@@ -3,6 +3,7 @@ layout: cv
 title: Adam Ulrich
 ---
 
+
 ## Director of Softare Engineering
 
 _I’m a detail-oriented servant-leader by choice. As a passionate mentor, coach, and leader, I believe that how we do things is at least as important as what we do. I care deeply about the quality of what we deliver and consider quality the most important feature my team ships._
@@ -45,6 +46,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
  __Director of Engineering, Developer Experience__, `2023 - present`.
  Remotely based in the Seattle, WA area, responsibilities included managing of team of 25 that oversee build systems, CI/CD, QA, performance infrastructure, branch health and release operations.
 
+
+
 ### Tableau Software/ Salesforce
 
  _Seattle, WA_, `Sep 2018 – Oct 2023`
@@ -54,6 +57,8 @@ Primary responsibilities included build and infrastructure systems, testing pipe
 
 __Senior Engineering Manager, Tableau Prep Builder__, `2018-2020`
 Oversaw the delivery of data cleaning and data preparation features.
+
+
 
 ### Microsoft
 
@@ -70,6 +75,8 @@ Shipped Expression Blend and Design, 1, 2, 3, and 4.  Awarded 3 patents for test
 
 __Senior Test Lead, STE, SDET, Developer Division__, `1996-2002`
 Primary technical focus on database metadata and visual design. Responsible for test automation system design and implementation.
+
+
 
 ### Patents
 
